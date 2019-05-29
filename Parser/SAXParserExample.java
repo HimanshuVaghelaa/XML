@@ -1,5 +1,3 @@
-package Codes;
-
 import javax.xml.parsers.SAXParserFactory;
 import javax.xml.parsers.SAXParser;
 import org.xml.sax.Attributes;
